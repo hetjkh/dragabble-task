@@ -74,7 +74,7 @@ function Hero() {
                 </Link>
               </Button>
               <Button variant="outline" size="lg" asChild>
-                <Link href="/tasks">
+                <Link href="/list">
                   View Tasks <List className="ml-2" size={20} />
                 </Link>
               </Button>
